@@ -1,2 +1,4 @@
 a-Si, los veo.
 b-Si, los ven. Subimos todo en la misma rama (main) para no tener distintas ramas.
+c-Si, todos los integrantes pueden ver los cambios realizados.
+d-Nos comunicamos via Whatsapp y Discord.
