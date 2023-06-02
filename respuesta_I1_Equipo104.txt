@@ -2,3 +2,4 @@ a-Si, los veo.
 b-Si, los ven. Subimos todo en la misma rama (main) para no tener distintas ramas.
 c-Si, todos los integrantes pueden ver los cambios realizados.
 d-Nos comunicamos via Whatsapp y Discord.
+e- La mejor forma de comunicarse dentro de GitHub es a través de los comimos y el apartado projects, donde podemos ir viendo que hizo cada uno.
